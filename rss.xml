@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[StoryHub]]></title><description><![CDATA[A Gatsby Blog]]></description><link>https://storyhub-image-tarex.redq.now.sh</link><generator>RSS for Node</generator><lastBuildDate>Sun, 20 Oct 2019 20:52:50 GMT</lastBuildDate><item><title><![CDATA[All points in Model Validation ASP.NET Core 2.2]]></title><description><![CDATA[#mind map]]></description><link>https://storyhub-image-tarex.redq.now.sh/model-validation-aspnet-core/</link><guid isPermaLink="false">https://storyhub-image-tarex.redq.now.sh/model-validation-aspnet-core/</guid><pubDate>Sun, 20 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;#&lt;strong&gt;&lt;em&gt;mind map&lt;/em&gt;&lt;/strong&gt;&lt;/h1&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 125%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;object data=&quot;https://coggle.it/diagram/XMKaQWSy4B7klOlp/t/asp-net-model-validation/32fbad933ab21fd9e50b807dcde7e6599f915c3957c5de9130e5805d268e2969&quot; style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;
+&lt;/object&gt;
+          &lt;/div&gt;
+          </content:encoded></item><item><title><![CDATA[Angular NGRX]]></title><description><![CDATA[Ngrx is a group of Angular libraries for reactive extensions. Ngrx/Store implements the Redux pattern using the well-known RxJS #mind map]]></description><link>https://storyhub-image-tarex.redq.now.sh/angular-redux/</link><guid isPermaLink="false">https://storyhub-image-tarex.redq.now.sh/angular-redux/</guid><pubDate>Sun, 20 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ngrx&lt;/em&gt;&lt;/strong&gt; is a group of Angular libraries for reactive extensions. Ngrx/Store implements the Redux pattern using the well-known RxJS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;#&lt;strong&gt;&lt;em&gt;mind map&lt;/em&gt;&lt;/strong&gt;&lt;/h1&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 125%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;object data=&quot;https://coggle.it/diagram/XL1epr99Bud9tZgN/t/angular-ngrx/1ccd6ca6969d4045301c82b8619eccbe33c2e7dc0c92e81124b505392c5c18db&quot; style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;
+&lt;/object&gt;
+          &lt;/div&gt;
+          </content:encoded></item><item><title><![CDATA[Serilog with ASP.NET Core]]></title><description><![CDATA[Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms…]]></description><link>https://storyhub-image-tarex.redq.now.sh/Serilog-with-Asp.net-Core/</link><guid isPermaLink="false">https://storyhub-image-tarex.redq.now.sh/Serilog-with-Asp.net-Core/</guid><pubDate>Sun, 20 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Serilog&lt;/em&gt;&lt;/strong&gt; is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms. While it’s useful even in the simplest applications, Serilog’s support for structured logging shines when instrumenting complex, distributed, and asynchronous applications and systems.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;#&lt;strong&gt;&lt;em&gt;mind map&lt;/em&gt;&lt;/strong&gt;&lt;/h1&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 125%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;object data=&quot;https://coggle.it/diagram/XMCE4b99BiQTF-Tb/t/serilog-with-asp-net-core-2/f4c957f22af9f559b462e64ad3754dc027d61e4819e023f4cdfea794a258fcdc&quot; style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;
+&lt;/object&gt;
+          &lt;/div&gt;
+          </content:encoded></item></channel></rss>
